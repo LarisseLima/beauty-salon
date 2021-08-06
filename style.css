@@ -68,20 +68,12 @@ body {
 
 .divider-1 {
   height: 1px;
-  background: linear-gradient(
-    270deg,
-    hsla(var(--hue), 36%, 57%, 1),
-    hsla(var(--hue), 65%, 88%, 0.34)
-  );
+  background-color: var(--base-color);
 }
 
 .divider-2 {
   height: 1px;
-  background: linear-gradient(
-    270deg,
-    hsla(var(--hue), 65%, 88%, 0.34),
-    hsla(var(--hue), 36%, 57%, 1)
-  );
+  background-color: var(--base-color);
 }
 
 .container {
