@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/demo.png" width="100%">
+  <img alt="Beauty Salon" src=".github/demo.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
