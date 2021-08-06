@@ -38,7 +38,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/LarisseLima/beauty-salon/blob/master/LICENSE) para mais detalhes.
 
 ---
 
