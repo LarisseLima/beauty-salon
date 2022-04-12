@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-Bibliotecas
+Ferramentas
 
 - [Google Fonts](https://fonts.google.com/)
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
